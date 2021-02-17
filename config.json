@@ -1,0 +1,17 @@
+{
+    "mysql_server": {
+        "host": "111.111.111.111",
+        "port": 10000,
+        "database": "database",
+        "username": "username",
+        "password": "password"
+    },
+    "vector_bot": {
+        "api_root" : "http://127.0.0.1:5700",
+        "api_token": "apitoken",
+        "groups": "1077988070,539075485,319879780",
+        "group_sep": 5,
+        "forward_hour": "0,1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
+        "forward_sep": 1800
+    }
+}
